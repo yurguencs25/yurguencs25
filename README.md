@@ -11,10 +11,16 @@ My professional approach combines **technical expertise** with a strong commitme
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, C#, TypeScript, Dart, SQL  
+- **Languages:** Dart, C#, TypeScript, Java, SQL  
 - **Frameworks & Tools:** Flutter, .NET, SAP UI5, Node.js  
-- **Databases:** PostgreSQL, SQLite, HANA, SQL Server  
+- **Databases:** SQL Server, HANA, SQLite, PostgreSQL
 - **Other Skills:** ERP & CRM Integrations, RESTful API Development, Software Architecture  
+
+---
+
+## Companies I have worked with
+- __You can be the next one, [contact me](mailto:yurguen.cs.dev@outlook.com)__.
+- [H&CO Global Advisors](https://www.hco.com/).
 
 ---
 
@@ -26,9 +32,7 @@ My professional approach combines **technical expertise** with a strong commitme
 ---
 
 ## 🌍 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 yurguen.campos@example.com  
-- 🖥️ [Portfolio / Website](https://example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yurguen-campos-cr506/)  
 
 ---
 ✨ *“Code is not just about solving problems — it’s about creating value and empowering people.”*
