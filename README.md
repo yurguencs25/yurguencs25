@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Software Developer | Mobile Applications | API Development | ERP & CRM Integrations. 
+I am a Software Developer with 3 years of experience building mobile applications, developing RESTful APIs, and implementing ERP–CRM integrations. Skilled in delivering high-quality, scalable, and maintainable solutions, I excel in team collaboration, problem-solving, and proactive communication. Passionate about continuous learning and innovation, I leverage creativity to design and implement solutions that generate real value for businesses and enhance user experience. My professional approach combines technical expertise with a strong commitment to teamwork and results.
+
 <!--
 **yurguencs25/yurguencs25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
